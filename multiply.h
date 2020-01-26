@@ -1,5 +1,5 @@
 #ifndef SpMV_H
-#define SpMC_H
+#define SpMV_H
 
 #include <cstdlib>
 #include <cstdio>
