@@ -2,7 +2,7 @@ CC = g++
 
 CXXFLAGS=-std=c++11 -O3 -Wall 
 
-pcgSolver: main.o multiply.o
+pcgSolver: main.o mult.o
 	$(CC) -o $@ $^ $(LFLAGS) $(LIBS) -lm
 
 .c.o:
