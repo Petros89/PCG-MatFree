@@ -12,7 +12,7 @@
 #include <fstream>
 #include <cstring>
 #include <cmath>
-#include "multiply.h"
+#include "mult.h"
 
 typedef double number;
 
