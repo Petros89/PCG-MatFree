@@ -1,6 +1,6 @@
 #include <cstdlib>
 #include <cstdio>
-#include "multiply.h"
+#include "mult.h"
 
 typedef double number;
 
