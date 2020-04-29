@@ -1,2 +1,2 @@
-# GPU-MatrixFree-PCG
-Modern matrix-free method for preconditioned conjugate gradient (PCG) iterative solver on GPUs
+# MatrixFree-PCG
+Modern matrix-free method for Preconditioned Conjugate Gradient (PCG) iterative solver
